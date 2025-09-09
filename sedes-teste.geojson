@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curitiba - Sede Central",
+        "endereco": "Rua José Bonifácio, 66",
+        "velocidade": "200mb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.270913, -25.429614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curitiba - Sede Administrativa",
+        "endereco": "Rua Mateus Leme, 1908",
+        "velocidade": "200mb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.272510, -25.398822]
+      }
+    }
+  ]
+}
