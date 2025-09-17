@@ -1,0 +1,599 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS L2",
+"cidade": "CURITIBA",
+"name": "Sede Administrativa",
+"endereco": "Rua Mateus Leme, 1908 - Centro Cívico - Curitiba - 80530-010",
+"tipo": "SEDE",
+"rede_ip": "10.77.38.0/23",
+"circuito": "1034164",
+"velocidade": "200 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.272510, -25.398822]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS L2",
+"cidade": null,
+"name": "Sede Administrativa - Prédio Anexo",
+"endereco": "Rua Mateus Leme, 1908 - Centro Cívico - Curitiba - 80530-010",
+"tipo": "SEDE",
+"rede_ip": "10.77.19.0/24",
+"circuito": "2167644",
+"velocidade": "100 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.272510, -25.398822]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": null,
+"cidade": null,
+"name": "Tronco",
+"endereco": null,
+"tipo": null,
+"rede_ip": "10.77.255.1",
+"circuito": "348439_TRN",
+"velocidade": "200 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": []
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Sede Central de Atendimentos",
+"endereco": "Rua José Bonifácio, 66 - Centro - Curitiba - 80020-130",
+"tipo": "SEDE",
+"rede_ip": "10.77.40.0/23",
+"circuito": "1350376",
+"velocidade": "200 Mbps",
+"status": "validar 1005457"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.270913, -25.429614]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Sede dos Núcleos Especializados",
+"endereco": "Avenida Benjamin Lins, 779 - Batel - Curitiba - 80420-100",
+"tipo": "SEDE",
+"rede_ip": "10.77.50.0/24",
+"circuito": "2009387",
+"velocidade": "100 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.281829, -25.438837]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Posto Avançado Assembléia Legislativa (ALEP)",
+"endereco": "Praça Nossa Senhora de Salete, s/n - Curitiba - PR - 80530-911",
+"tipo": "TERC - Legislativo",
+"rede_ip": "10.77.58.0/24",
+"circuito": "1282136",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.269986, -25.429815]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Fórum Criminal Ahú",
+"endereco": "Avenida Anita Garibaldi, 750 - Ahu - Curitiba - 82630-000",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.59.0/24",
+"circuito": "1414413",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.270913, -25.429614]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Fórum CIC",
+"endereco": "Rua Lodovico Kaminski, 2525 - Caiuá - Curitiba - 81260-282",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.57.0/24",
+"circuito": "1415442",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.340051, -25.503083]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Fórum Família",
+"endereco": "Rua da Glória, 290, 1° Andar - Centro Cívico - Curitiba - 80030-060",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.56.0/24",
+"circuito": "1048601",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.269986, -25.429815]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Juizado Especial",
+"endereco": "Avenida Cândido de Abreu, 535 - Centro Cívico - Curitiba - 80530-000",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.55.0/24",
+"circuito": "1249704",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.270913, -25.429614]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Fórum do Sítio Cercado",
+"endereco": "Rua Guaratuba, 1464 - Sítio Cercado - Curitiba - 81900-200",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.54.0/24",
+"circuito": "1064601",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.270913, -25.429614]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Vara de Família do Pinheirinho",
+"endereco": "Rua da Cidadania, 250 - Pinheirinho - Curitiba",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.53.0/24",
+"circuito": "2191599",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.295528, -25.513631]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Santa Felicidade - Regional",
+"endereco": "Rua da Cidadania, 250 - Santa Felicidade - Curitiba",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.52.0/24",
+"circuito": "1351187",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.324907, -25.409391]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Tribunal de Contas do Estado do Paraná (TCE)",
+"endereco": "Praça Nossa Senhora de Salete, s/n - Centro Cívico - Curitiba - 80530-000",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.51.0/24",
+"circuito": "1414371",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.269986, -25.429815]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": null,
+"name": "Centro de Referência para População em Situação de Rua (PPRUA)",
+"endereco": "Rua Francisco Torres, 172 - Centro - Curitiba",
+"tipo": "SEDE",
+"rede_ip": "10.77.126.0/24",
+"circuito": "1306385",
+"velocidade": "10 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.269986, -25.429815]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "SÃO JOSÉ DOS PINHAIS",
+"name": "São José dos Pinhais",
+"endereco": "Rua Veríssimo Marquês, 513 - Centro - São José dos Pinhais - 83005-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.48.0/24",
+"circuito": "2009292",
+"velocidade": "40 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.205739, -25.534887]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "CAMPO LARGO",
+"name": "Campo Largo",
+"endereco": "Rua Osvaldo Cruz, 2038 - Centro - Campo Largo - 83601-130",
+"tipo": "SEDE",
+"rede_ip": "10.77.49.0/24",
+"circuito": "1036737",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.527632, -25.459424]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS L2",
+"cidade": "ARAUCÁRIA",
+"name": "Araucária",
+"endereco": "Rua Ver. R. T. P, 840 - Centro - Araucária - 83701-130",
+"tipo": "SEDE",
+"rede_ip": "10.77.47.0/24",
+"circuito": "2167663",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.390885, -25.590132]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "FAZENDA RIO GRANDE",
+"name": "Fazenda Rio Grande",
+"endereco": "Rua César Carelli, 290 - Pioneiros - Fazenda Rio Grande - 83830-463",
+"tipo": "SEDE",
+"rede_ip": "10.77.46.0/24",
+"circuito": "1049340",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.294165, -25.688846]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "PINHAIS",
+"name": "Pinhais",
+"endereco": "Avenida C. dos Pinhais, 1588 - Centro - Pinhais - 83323-010",
+"tipo": "SEDE",
+"rede_ip": "10.77.45.0/24",
+"circuito": "1414376",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.193237, -25.411311]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "PIRAQUARA",
+"name": "Piraquara",
+"endereco": "Rua Cel. Manoel Alves, 1163 - Centro - Piraquara - 83301-110",
+"tipo": "SEDE",
+"rede_ip": "10.77.44.0/24",
+"circuito": "1282121",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.073401, -25.432585]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "QUATRO BARRAS",
+"name": "Quatro Barras",
+"endereco": "Rua Ema, 16 - Jardim Menino Deus - Quatro Barras - 83420-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.43.0/24",
+"circuito": "1351185",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.073401, -25.432585]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "RIO BRANCO DO SUL",
+"name": "Rio Branco do Sul",
+"endereco": "Rua Nossa Senhora do Rosário, 804 - Centro - Rio Branco do Sul - 83540-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.42.0/24",
+"circuito": "1351190",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.314643, -25.26947]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS L2",
+"cidade": "COLOMBO",
+"name": "Colombo",
+"endereco": "Rua da República, 144 - Centro - Colombo - 83405-610",
+"tipo": "SEDE",
+"rede_ip": "10.77.41.0/24",
+"circuito": "2167664",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.213264, -25.311448]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "ALMIRANTE TAMANDARÉ",
+"name": "Almirante Tamandaré",
+"endereco": "Avenida Emílio Johnson, 1076 - Centro - Almirante Tamandaré - 83501-140",
+"tipo": "SEDE",
+"rede_ip": "10.77.39.0/24",
+"circuito": "1049320",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.30005, -25.30005]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "ITAPERUÇU",
+"name": "Itaperuçu",
+"endereco": "Rua Rui Barbosa, 114 - Centro - Itaperuçu - 83560-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.127.0/24",
+"circuito": "2201490",
+"velocidade": "10 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-49.314643, -25.26947]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "CASTRO",
+"name": "Castro",
+"endereco": "Rua Padre Oswaldo Gomes, 126 - Centro - Castro - 84165-050",
+"tipo": "SEDE",
+"rede_ip": "10.77.128.0/24",
+"circuito": "1414407",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-50.009472, -24.788574]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "CORNÉLIO PROCÓPIO",
+"name": "Cornélio Procópio",
+"endereco": "Avenida Nossa Senhora do Rocio, 1475 - Centro - Cornélio Procópio - 86300-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.135.0/24",
+"circuito": "2054215",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-50.655885, -23.181827]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "FRANCISCO BELTRÃO",
+"name": "Francisco Beltrão",
+"endereco": "Rua Otacilio de Souza, 66 - Centro - Francisco Beltrão - 85601-650",
+"tipo": "SEDE",
+"rede_ip": "10.77.140.0/24",
+"circuito": "1036712",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-53.053896, -26.08253]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "FOZ DO IGUAÇU",
+"name": "Foz do Iguaçu",
+"endereco": "Rua Edmundo de Barros, 1492 - Centro - Foz do Iguaçu - 85851-000",
+"tipo": "SEDE",
+"rede_ip": "10.77.64.0/24",
+"circuito": "2417369",
+"velocidade": "50 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-54.588074, -25.548232]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "GUARATUBA",
+"name": "Guaratuba - Fórum",
+"endereco": "Rua Tiago Pedroso, 417 - Cohapar - Guaratuba - 83280-000",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.13.0/24",
+"circuito": "1225886",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-48.571477, -25.882939]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "PARANAGUA",
+"name": "Paranaguá - Nova Sede",
+"endereco": "Avenida Gabriel de Lara, 332 -- Bairro João Gualberto - Paranaguá",
+"tipo": "SEDE",
+"rede_ip": "10.77.1.0/24",
+"circuito": "2193609",
+"velocidade": "40 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-48.520478, -25.518609]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"tipo_do_link": "MPLS",
+"cidade": "PONTAL DO PARANÁ",
+"name": "Pontal do Paraná - Fórum",
+"endereco": "Rua Dona Alba de Souza e Silva, 1359 (Fórum de Ipanema) – Pontal do Paraná",
+"tipo": "TERC - FÓRUM",
+"rede_ip": "10.77.16.0/24",
+"circuito": "2191590",
+"velocidade": "20 Mbps",
+"status": null
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-48.510804, -25.674068]
+}
+}
+]
+}
