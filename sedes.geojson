@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CURITIBA",
+        "designacao": "Sede Administrativa",
+        "endereco": "Rua Mateus Leme, 1908 - Centro Cívico - Curitiba - 80530-010",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Sede Administrativa - Prédio Anexo",
+        "endereco": "Rua Mateus Leme, 1908 - Centro Cívico - Curitiba - 80530-010",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "52",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Sede Central de Atendimentos",
+        "endereco": "Rua José Bonifácio, 66 - Centro - Curitiba - 80020-130",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Sede dos Núcleos Especializados",
+        "endereco": "Avenida Benjamin Lins, 779 - Batel - Curitiba - 80420-100",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Posto Avançado Assembléia Legislativa (ALEP)",
+        "endereco": "Praça Nossa Senhora de Salete, s/n - Curitiba - PR - 80530-911",
+        "tipo": "TERC - Legislativo",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Criminal Ahú",
+        "endereco": "Avenida Anita Garibaldi, 750 - Ahu - Curitiba - 82630-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum CIC",
+        "endereco": "Rua Lodovico Kaminski, 2525 - Caiuá - Curitiba - 81260-282",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Família",
+        "endereco": "Rua da Glória, 290, 1° Andar - Centro Cívico - Curitiba - 80030-060",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Santa Felicidade",
+        "endereco": "Avenida Via Vêneto, 1490 - Santa Felicidade - Curitiba - 82020-470",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Boqueirão",
+        "endereco": "Avenida Marechal Floriano Peixoto, 8257 - Boqueirão - Curitiba - 81650-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Pinheirinho",
+        "endereco": "Avenida Winston Churchill, 2471 - Capão Raso - Curitiba - 81150-050",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Tribunal do Júri",
+        "endereco": "Rua Ernâni Santiago de Oliveira, 268 - Centro Cívico - Curitiba - 80530-100",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Classe Especial (Segundo Grau)",
+        "endereco": "Rua Álvaro Ramos, 150, 4° Andar (Edifício Pery) - Centro Cívico - Curitiba - 80530-190",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Casa da Mulher Brasileira (CMB)",
+        "endereco": "Avenida Paraná, 870 - Cabral - Curitiba - 80035-130",
+        "tipo": "TERC - Prefeitura",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Fórum Justiça no Bairro",
+        "endereco": "Rua Lysimaco Ferreira Costa, 355 - Centro Cívico - Curitiba - 80530-100",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "CIAADI",
+        "endereco": "Rua Pastor Manoel Virgílio de Souza, 1310 - Capão da Imbuia - 82810-140",
+        "tipo": "TERC-FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Câmara Municipal de Curitiba",
+        "endereco": "Rua Barão do Rio Branco, 693 ",
+        "tipo": "TERC - Prefeitura",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "COLOMBO",
+        "designacao": "Colombo - Almoxarifado",
+        "endereco": "Avenida São Gabriel, 433, Galpão nº 9 - Roça Grande - Colombo - 83404-000",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Colombo - Regional Osasco",
+        "endereco": "Rua Pref. Pio Alberti, 450 - Osasco - Colombo - 83402-650",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "SÃO JOSE DOS PINHAIS",
+        "designacao": "SJP - Sede",
+        "endereco": "Largo Vereador Segismundo Salata, 192 - Centro - São José dos Pinhais - 83005-110",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "SJP - Fórum1",
+        "endereco": "Rua João Ângelo Cordeiro, s/n - Centro - São José dos Pinhais - 83005-570",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "ALMIRANTE TAMANDARÉ",
+        "designacao": "Almirante Tamandaré - Fórum",
+        "endereco": "Rua João Batista de Siqueira, 282 - Vila Rachel - Almirante Tamandaré - 83501-610",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PIRAQUARA",
+        "designacao": "Presídio Alves Ribeiro",
+        "endereco": "PRESIDIO ALVES RIBEIRO - CASA 08 SEDE DPE PR - PLANTA MEIRELES / PIRAQUARA",
+        "tipo": "TERC - PRESÍDIO",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "LONDRINA",
+        "designacao": "Londrina",
+        "endereco": "Avenida Bandeirantes, 263 - Vila Ipiranga - Londrina - 86010-020",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CAMBÉ",
+        "designacao": "Cambé",
+        "endereco": "Avenida Roberto Conceição, 532 - Jardim São José - Cambé - 86192-550",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "MARINGÁ",
+        "designacao": "Maringá",
+        "endereco": "Avenida Tiradentes, 1289 - Zona 4 - Maringá - 87013-344",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PONTA GROSSA",
+        "designacao": "Ponta Grossa",
+        "endereco": "Rua Doutor Leopoldo Guimarães da Cunha, 300 - Oficinas - Ponta Grossa - 84035-310",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CASTRO",
+        "designacao": "Castro",
+        "endereco": "Rua Padre Damaso, 81 - Centro - Castro - 84165-540",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CASCAVEL",
+        "designacao": "Cascavel",
+        "endereco": "Rua São Paulo, 346 - Centro - Cascavel - 85801-020",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "FOZ DO IGUAÇU",
+        "designacao": "Foz do Iguaçu – Sede",
+        "endereco": "Avenida Brasil, n.º1829, Centro – CEP:85851-000, Foz do Iguaçu - Terreo e 2 andar.",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Foz do Iguaçu - Fórum",
+        "endereco": "Avenida Pedro Basso, 1001 - Jardim Polo Centro - Foz do Iguaçu - 85863-756",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "GUARAPUAVA",
+        "designacao": "Guarapuava - Sede",
+        "endereco": "Avenida Manoel Ribas, 2537 - Centro - Guarapuava - 85010-180",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Guarapuava - Fórum",
+        "endereco": "Avenida Manoel Ribas, 500 - Santana - Guarapuava - 85070-180",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PATO BRANCO",
+        "designacao": "Pato Branco ",
+        "endereco": "Rua Maria Bueno, 284 - Sambugaro - Pato Branco - 85501-560",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "FRANCISCO BELTRÃO",
+        "designacao": "Francisco Beltrão – Sede",
+        "endereco": "Rua Tenente Camargo, nº 1312 - Centro - Sala 6 - Setor A - CEP 85.601-610",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Francisco Beltrão - Fórum",
+        "endereco": "Rua Tenente Camargo, 2112, Centro, Francisco Beltrão - 85601-610",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CORNÉLIO PROCÓPIO",
+        "designacao": "Cornélio Procópio - Sede",
+        "endereco": "Rua Santos Dumont, 635 - Centro - Cornélio Procópio - 86300-000",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Cornélio Procópio - Fórum",
+        "endereco": "Rua Santos Dumont, 903 - Centro - Cornélio Procópio - 86300-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "APUCARANA",
+        "designacao": "Apucarana",
+        "endereco": "Rua Erasto Gaertner, 126 - Centro - Apucarana - 86800-280",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "JANDAIA DO SUL",
+        "designacao": "Jandaia do Sul",
+        "endereco": "Rua Plácido Caldas, 536 - Jandaia do Sul",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CAMPO MOURÃO",
+        "designacao": "Campo Mourão – Sede",
+        "endereco": "Rua Santa Cruz, 923 (Térreo)- Jardim Florida, Campo Mourão - PR, 87300-440",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "Campo Mourão - Fórum",
+        "endereco": "Avenida José C de Oliveira, 2065 - Centro - Campo Mourão - 87300-020",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "UMUARAMA",
+        "designacao": "Umuarama",
+        "endereco": "Rua Desembargador Munhoz de Mello, 3792 - Zona I - Umuarama - 87501-180",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CIANORTE",
+        "designacao": "Cianorte",
+        "endereco": " Rua Guararapes, 521 – Centro, Cianorte - PR, CEP: 87200-147 ",
+        "tipo": "TERC - Prefeitura",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "CRUZEIRO DO OESTE",
+        "designacao": "Cruzeiro do Oeste",
+        "endereco": "Praça Agenor Bortolon - Cruzeiro do Oeste, PR, 87400-000 - Fórum",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PARANAVAÍ",
+        "designacao": "Paranavaí",
+        "endereco": "Rua Getúlio Vargas, 620 - Centro, Paranavaí - CEP: 87702-290",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "UNIÃO DA VITÓRIA",
+        "designacao": "União da Vitória - Fórum",
+        "endereco": "Rua Marechal Floriano Peixoto, 314, Centro - União da Vitória - 84600-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "",
+        "designacao": "União da Vitória - Sede",
+        "endereco": "Rua Cruz Machado, nº 141, esq. com Av. Manoel Ribas, nº 332, Centro, União da Vitória-PR, no Primeiro Pavimento, CEP 85851-000 ",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "GUARATUBA",
+        "designacao": "Guaratuba",
+        "endereco": "Rua Tiago Pedroso, 417 - Cohapar - Guaratuba - 83280-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PARANAGUA",
+        "designacao": "Paranaguá",
+        "endereco": "Avenida Gabriel de Lara, 332 -- Bairro João Gualberto - Paranaguá",
+        "tipo": "SEDE",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "PONTAL DO PARANÁ",
+        "designacao": "Pontal do Paraná",
+        "endereco": "Rua Dona Alba de Souza e Silva, 1359 (Fórum de Ipanema) - Pontal do Paraná - 83255-000",
+        "tipo": "TERC - FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "MATINHOS",
+        "designacao": "Matinhos",
+        "endereco": "Rua Albano Müller, 47, Matinhos - PR, 83260-000 - Câmera Municipal - Plenário Gabinetes",
+        "tipo": "TERC - Câmera Municipal",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cidade": "ANTONINA",
+        "designacao": "Antonina",
+        "endereco": "Tv. Ildefonso, 115 - Antonina, PR, 83370-000 - Fórum Estadual de Antonina",
+        "tipo": "TERC -FÓRUM",
+        "ip": "",
+        "codigo": "",
+        "velocidade": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      }
+    }
+  ]
+}
